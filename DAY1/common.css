@@ -1,0 +1,26 @@
+.bg-color-lightblue {
+    background-color: lightblue;
+}
+.bg-color-lightgreen {
+    background-color: lightgreen;
+}
+.bg-color-lightpink {
+    background-color: lightpink;
+}
+
+.font-color-darkblue {
+    color: darkblue;
+}
+
+.font-color-darkgreen  {
+    color: darkgreen;
+}
+
+.font-decent {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+.w-100{
+    width: 100%;
+}
